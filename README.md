@@ -1,7 +1,7 @@
 # Hi, I'm Zehra :)
 
 I'm a Computer Engineering graduate with a strong interest in
-**Data Science, Machine Learning, and Artificial Intelligence.**
+Data Science, Machine Learning, and Artificial Intelligence.
 
 I enjoy building practical applications, experimenting with machine
 learning models, and exploring how intelligent systems can solve
@@ -14,7 +14,7 @@ real-world problems.
 - LLMs, RAG & Agentic AI
 - Reinforcement Learning
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Languages:** Python, SQL, JavaScript, PHP, C#
 
@@ -22,6 +22,6 @@ real-world problems.
 
 **Backend & Tools:** Laravel, PostgreSQL, MySQL, Docker, Git
 
-### 📫 Connect With Me
+### Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/zehra-atalay/)
