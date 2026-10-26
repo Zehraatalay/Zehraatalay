@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Zehra :)
 
-<!--
-**Zehraatalay/Zehraatalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate with a strong interest in
+**Data Science, Machine Learning, and Artificial Intelligence.**
 
-Here are some ideas to get you started:
+I enjoy building practical applications, experimenting with machine
+learning models, and exploring how intelligent systems can solve
+real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+- Machine Learning & Deep Learning
+- Data Science & Predictive Analytics
+- LLMs, RAG & Agentic AI
+- Reinforcement Learning
+
+### 🛠️ Technical Skills
+
+**Languages:** Python, SQL, JavaScript, PHP, C#
+
+**Machine Learning & Data:** Pandas, NumPy, Scikit-learn, LightGBM, PyTorch
+
+**Backend & Tools:** Laravel, PostgreSQL, MySQL, Docker, Git
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/zehra-atalay/)
