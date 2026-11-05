@@ -9,10 +9,10 @@ Tech Stack
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js" alt="Python, C++, C#" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs, java" alt="Python, C++, C#, Java" />
 </p>
 
-Python · SQL · C++ · C# 
+Python · SQL · C++ · C# · Java
 
 AI & Data
 
