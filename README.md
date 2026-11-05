@@ -1,26 +1,33 @@
-# Hi, I'm Zehra
+Hi, I’m Zehra :)
 
-I'm a Computer Engineering graduate from TOBB ETU. I like machine learning and data science, especially the part where you start with a messy problem and slowly get something working out of it.
+I’m a Computer Engineering graduate from TOBB ETU. I like machine learning and data science, especially the part where you start with a messy problem and slowly get something working out of it.
 
-I learn best by building things, so most of what's here started as a "let me see if I can make this work" project.
+I learn best by building things, so most of what’s here started as a “let me see if I can make this work” project.
 
-## Projects
+Tech Stack
 
-| Project | What it is |
-|---|---|
-| [Match3-AI-Lab](https://github.com/Zehraatalay/match3-ai-lab) | A custom Match-3 game environment for testing reinforcement learning agents and comparing different approaches. |
-| SkillGraph | Job matching and skill extraction built on LLMs. |
-| Retail Sales Forecasting | Time-series forecasting with feature engineering and ML models. |
-| StyleMatch | Computer vision experiments: template matching, HOG features and neural networks. |
+Languages
 
-## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js" alt="Python, C++, C#" />
+</p>
 
-**Languages:** Python, SQL, C++, C#, JavaScript
+Python · SQL · C++ · C# 
 
-**AI & Data:** PyTorch, Scikit-learn, Pandas, NumPy, LightGBM, XGBoost, LangGraph, LangChain
+AI & Data
 
-**Tools:** Git, Docker, PostgreSQL, MySQL, Unity
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, Scikit-learn" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" />
+</p>
 
-## Get in touch
+Tools & Databases
 
-You can find me on [LinkedIn](https://linkedin.com/in/zehra-atalay).
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postgres,unity" alt="Git, Docker, PostgreSQL, Unity" />
+</p>
+
+Get in touch
+
+You can find me on LinkedIn.
