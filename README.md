@@ -27,6 +27,6 @@ Tools & Databases
   <img src="https://skillicons.dev/icons?i=git,docker,postgres,unity" alt="Git, Docker, PostgreSQL, Unity" />
 </p>
 
-Get in touch
+## Get in touch
 
-You can find me on LinkedIn.
+You can find me on [LinkedIn](https://www.linkedin.com/in/zehra-atalay/).
