@@ -9,10 +9,9 @@ Tech Stack
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs, java" alt="Python, C++, C#, Java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java" alt="Python, C++, C#, Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="SQL" />
 </p>
-
-Python · SQL · C++ · C# · Java
 
 AI & Data
 
